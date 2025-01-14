@@ -15,3 +15,6 @@ why we require DNN:-
 It is based on human brain
 It has strong mathematical problem solving ability.
 ex: xsin(x)+sqrt(x)....
+
+what is HyperParameter tuning?
+Hyperparameter tuning is done by example using GridSearchCv, that gives the exact values which holds real accuracy of the model
